@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDisplayName</key><string>ConnectCall</string>
+    <key>CFBundleName</key><string>ConnectCall</string>
+    <key>NSCameraUsageDescription</key><string>ConnectCall uses the camera for video calls.</string>
+    <key>NSMicrophoneUsageDescription</key><string>ConnectCall uses the microphone for audio and video calls.</string>
+    <key>NSUserNotificationUsageDescription</key><string>ConnectCall sends notifications for incoming calls.</string>
+    <key>UIBackgroundModes</key><array><string>remote-notification</string><string>voip</string></array>
+</dict>
+</plist>
