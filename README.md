@@ -191,10 +191,10 @@ Before submission, verify:
 - [x] Call history
 - [x] Microphone/camera permission handling
 - [x] Basic error handling
-- [ ] Speaker output verified on final target device
-- [ ] Release APK built and installed
-- [ ] Demo video recorded
-- [ ] Final GitHub push completed
+- [x] Speaker output verified on final target device
+- [x] Release APK built and installed
+- [x] Demo video recorded
+- [x] Final GitHub push completed
 
 ---
 
